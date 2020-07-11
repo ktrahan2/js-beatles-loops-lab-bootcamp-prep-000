@@ -13,4 +13,5 @@ function johnLennonFacts(array) {
   while (i < arrary.length) {
   var empty = array[`${i}!!!`]
   }
+  return empty
 }
