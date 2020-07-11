@@ -13,6 +13,6 @@ function johnLennonFacts(array) {
   let i = 0
   newArray = []
   while (i < array.length) {
-    array[1] = newArray[`${i}!!!`]
+    array[i] = newArray[`${i}!!!`]
   }
 }
